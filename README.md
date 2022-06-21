@@ -16,5 +16,4 @@ Hard
 
 <img width="1003" alt="Screen Shot 2022-06-20 at 11 40 20 PM" src="https://user-images.githubusercontent.com/43007932/174711819-59ec5b74-485d-4b74-8114-5e83a04d35e5.png">
 
-<img width="1002" alt="Screen Shot 2022-06-20 at 11 40 32 PM" src="https://user-images.githubusercontent.com/43007932/174711830-569db901-3331-453f-af75-45a2b433b84f.png">
-
+<img width="1002" alt="Screen Shot 2022-06-20 at 11 44 19 PM" src="https://user-images.githubusercontent.com/43007932/174711958-99a9d6a9-23d1-4784-a910-32818d6ee183.png">
